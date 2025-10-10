@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Damian Chelverajan - AWS Cloud Enthusiast / AWS Community Builder</h1>
+<h1 align="center">Hi 👋, I'm Damian Chelverajan</h1>
+<h3 align="center">AWS Cloud Enthusiast / AWS Community Builder</h3>
 <h4 align="center">Cloud & Infrastructure Engineer delivering secure, scalable, and automated systems for banking, SaaS, and enterprise clients.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damianchelva&label=Profile%20views&color=0e75b6&style=flat" alt="damianchelva" /> </p>
