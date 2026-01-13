@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Damian Chelvarajan</h1>
+<h1 align="center">Hi 👋, I'm Damian Chelverajan</h1>
 <h3 align="center">AWS Cloud Enthusiast / AWS Community Builder</h3>
 <h4 align="center">Cloud & Infrastructure Engineer delivering secure, scalable, and automated systems for banking, SaaS, and enterprise clients.</h4>
 
